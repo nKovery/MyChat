@@ -23,7 +23,7 @@ while valid == False:
         sys.exit()
 nickname = name
 root.quit()
-
+#test
 
 chat = tk.Tk()
 chat.title("My Chat")
